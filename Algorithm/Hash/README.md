@@ -23,13 +23,13 @@
 
 3. 풀이
 
-- [[Hash]camouflage.js]](https://github.com/tjfruddnjs1/Today-I-Learned/blob/main/Algorithm/Hash/%5BHash%5Dcamouflage.js)
+- [[Hash]camouflage.js](https://github.com/tjfruddnjs1/Today-I-Learned/blob/main/Algorithm/Hash/%5BHash%5Dcamouflage.js)
 - map type을 이용하여 [key, value] 형태로 옷의 종류와 숫자를 저장하였습니다.
 - 이후, 조합 알고리즘을 이용하여 key에 해당하는 value의 수를 가져와 value의 수만큼 모든 경우의 수를 구하여 다 더해주는 방법을 택했습니다.
 
 > 피드백
 
-- [[Hash][best]camouflage.js]](https://github.com/tjfruddnjs1/Today-I-Learned/blob/main/Algorithm/Hash/%5BHash%5D%5BBest%5Dcamouflage.js)
+- [[Hash][best]camouflage.js](https://github.com/tjfruddnjs1/Today-I-Learned/blob/main/Algorithm/Hash/%5BHash%5D%5BBest%5Dcamouflage.js)
 - 이 후, 다른 사람들이 풀었던 방식을 보았는데 처음 느꼈던 감정은 되게 황당했습니다.
 - 코드의 길이에서 부터 가독성 및 성능 차이가 많이 난다고 느꼈습니다.
 - 위의 방식은 다음과 같습니다.
