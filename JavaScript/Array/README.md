@@ -176,4 +176,4 @@ console.log(result); //[6, 7, 8]
 
 ## some() :
 
-## 출처 : https://jae04099.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%B0%B0%EC%97%B4-%ED%95%A8%EC%88%98-%EC%A0%95%EB%A6%AC
+#### 출처 : https://jae04099.tistory.com/entry/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EB%B0%B0%EC%97%B4-%ED%95%A8%EC%88%98-%EC%A0%95%EB%A6%AC
