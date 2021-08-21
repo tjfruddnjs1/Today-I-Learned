@@ -64,7 +64,7 @@
 
 3. 풀이
 
-- [[Hash]bestAlbum.js]()
+- [[Hash]bestAlbum.js](https://github.com/tjfruddnjs1/Today-I-Learned/blob/main/Algorithm/Hash/%5BHash%5DbestAlbum.js)
 - 방식을 순서에 순서에 맞추어 설명해보겠습니다.
 - (1) 먼저 types라는 객체를 생성해 1번 조건을 위해 가장 많이 재생된 장르를 구분하기 위해 플레이수를 더해 저장합니다. (key-value 형태)
 - (2) types 객체를 플레이수가 많은 장르가 앞에 나오도록 정렬합니다.(객체 > entries > 배열 > fromEntries > 객체)
