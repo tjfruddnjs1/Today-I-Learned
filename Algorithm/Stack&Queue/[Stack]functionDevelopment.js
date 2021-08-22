@@ -9,7 +9,6 @@ function solution(progresses, speeds) {
     remains.push(Math.ceil((100 - val) / speeds[idx]));
   });
 
-  console.log(remains);
   let separator = [];
   remains.forEach((val, idx) => {
     if (separator.length == 0) separator.push(val);
@@ -25,7 +24,6 @@ function solution(progresses, speeds) {
     if (idx == remains.length - 1) answer.push(separator.length);
   });
 
-  console.log(answer);
   return answer;
 }
 
