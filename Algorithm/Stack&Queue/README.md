@@ -52,9 +52,11 @@
 
 3. 풀이
 
-- [[Stack]printer.js]()
+- [[Stack]printer.js](https://github.com/tjfruddnjs1/Today-I-Learned/blob/main/Algorithm/Stack%26Queue/%5BStack%5Dprinter.js)
 - (1) 먼저 기존 배열 priorities를 index, value 형태로 재 조합해서 idxPriorities에 넣습니다.
 - (2) 그리고 queue에서 하나를 꺼내오는 것처럼 array.shift() 메서드를 이용하여 앞에서부터 하나씩 가져오고 보다 큰 요소가 배열내에 존재하는지를 판단하는 변수 isBig을 선언합니다.
 - (3) 이후 큰 요소가 있다면 idxPriorities 뒤에 push하고 없다면 order 배열에 하나씩 넣습니다.
 - (4) 배열 내에 요소가 없을 때 반복문을 종료합니다.
 - (5) 이후 order 배열에서 location에 해당하는 value를 찾아 answer에 +1 후 answer를 return 합니다.
+
+4. 출처 : https://programmers.co.kr/learn/courses/30/lessons/42587
